@@ -8,6 +8,7 @@ subtitle: A Weekly Digest of Frontend News
 description:
 keywords: frontend, news, digest, newsletter
 author: Greyson Richey
+email: greysonrichey@gmail.com
 language: English
 timezone:
 
@@ -79,7 +80,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Bloodyaugust/frontend-feed
+  repo: git@github.com:Bloodyaugust/frontend-feed.git
   branch:
   message:
 
