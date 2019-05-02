@@ -6,7 +6,7 @@
   <link href="/frontend-feed/atom.xml" rel="self"/>
   
   <link href="https://bloodyaugust.github.io/frontend-feed/"/>
-  <updated>2019-05-02T20:25:32.111Z</updated>
+  <updated>2019-05-02T23:03:50.150Z</updated>
   <id>https://bloodyaugust.github.io/frontend-feed/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test Post</title>
+    <link href="https://bloodyaugust.github.io/frontend-feed/2019/05/02/Test-Post/"/>
+    <id>https://bloodyaugust.github.io/frontend-feed/2019/05/02/Test-Post/</id>
+    <published>2019-05-02T23:03:50.000Z</published>
+    <updated>2019-05-02T23:03:50.150Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Welcome to Frontend Feed: A Weekly Digest of Frontend News</title>
