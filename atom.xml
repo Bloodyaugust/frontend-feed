@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Frontend Feed</title>
+  
+  <subtitle>A Weekly Digest of Frontend News</subtitle>
+  <link href="/frontend-feed/atom.xml" rel="self"/>
+  
+  <link href="https://bloodyaugust.github.io/frontend-feed/"/>
+  <updated>2019-05-02T20:25:32.111Z</updated>
+  <id>https://bloodyaugust.github.io/frontend-feed/</id>
+  
+  <author>
+    <name>Greyson Richey</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome to Frontend Feed: A Weekly Digest of Frontend News</title>
+    <link href="https://bloodyaugust.github.io/frontend-feed/2019/05/02/Welcome-to-Frontend-Feed-A-Weekly-Digest-of-Frontend-News/"/>
+    <id>https://bloodyaugust.github.io/frontend-feed/2019/05/02/Welcome-to-Frontend-Feed-A-Weekly-Digest-of-Frontend-News/</id>
+    <published>2019-05-02T20:15:32.000Z</published>
+    <updated>2019-05-02T20:25:32.111Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to Frontend Feed! This blog is in place to serve as a digest for the many, &lt;em&gt;many&lt;/em&gt; sources of frontend news. Newsletters,
+        
+      
+    
+    </summary>
+    
+    
+      <category term="welcome" scheme="https://bloodyaugust.github.io/frontend-feed/tags/welcome/"/>
+    
+      <category term="meta" scheme="https://bloodyaugust.github.io/frontend-feed/tags/meta/"/>
+    
+  </entry>
+  
+</feed>
