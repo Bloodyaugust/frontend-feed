@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Frontend Feed</title>
-  
+  <icon>https://www.gravatar.com/avatar/2e731702917afeb958741433fb17e803</icon>
   <subtitle>A Weekly Digest of Frontend News</subtitle>
   <link href="/frontend-feed/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>Greyson Richey</name>
-    
+    <email>greysonrichey@gmail.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
