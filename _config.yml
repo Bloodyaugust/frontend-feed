@@ -74,7 +74,19 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+### Current Theme: https://github.com/probberechts/hexo-theme-cactus/
+theme: cactus
+theme_config:
+  colorscheme: dark
+  disqus:
+    enabled: true
+    shortname: frontend-feed
+  nav:
+    Home: /
+    Feed: /archives/
+    Find Me On GitHub: https://github.com/bloodyaugust
+  social_links:
+    github: https://github.com/bloodyaugust
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
