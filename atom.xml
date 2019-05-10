@@ -6,7 +6,7 @@
   <link href="/frontend-feed/atom.xml" rel="self"/>
   
   <link href="https://bloodyaugust.github.io/frontend-feed/"/>
-  <updated>2019-05-03T23:55:15.795Z</updated>
+  <updated>2019-05-10T21:49:43.263Z</updated>
   <id>https://bloodyaugust.github.io/frontend-feed/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>evergreen-conspiracy</title>
+    <link href="https://bloodyaugust.github.io/frontend-feed/2019/05/10/evergreen-conspiracy/"/>
+    <id>https://bloodyaugust.github.io/frontend-feed/2019/05/10/evergreen-conspiracy/</id>
+    <published>2019-05-10T21:39:56.000Z</published>
+    <updated>2019-05-10T21:49:43.263Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Googlebot
+        
+      
+    
+    </summary>
+    
+    
+      <category term="feed" scheme="https://bloodyaugust.github.io/frontend-feed/tags/feed/"/>
+    
+      <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
+    
+      <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
+    
+      <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
+    
+      <category term="google" scheme="https://bloodyaugust.github.io/frontend-feed/tags/google/"/>
+    
+  </entry>
   
   <entry>
     <title>Remote Dev in VS Code?!</title>
@@ -41,9 +74,9 @@
     
       <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
     
-      <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
-    
       <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
+    
+      <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
     
   </entry>
   
