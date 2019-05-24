@@ -6,7 +6,7 @@
   <link href="/frontend-feed/atom.xml" rel="self"/>
   
   <link href="https://bloodyaugust.github.io/frontend-feed/"/>
-  <updated>2019-05-10T21:49:43.263Z</updated>
+  <updated>2019-05-24T22:20:37.712Z</updated>
   <id>https://bloodyaugust.github.io/frontend-feed/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>roughly-sponsor-svelte</title>
+    <link href="https://bloodyaugust.github.io/frontend-feed/2019/05/24/roughly-sponsor-svelte/"/>
+    <id>https://bloodyaugust.github.io/frontend-feed/2019/05/24/roughly-sponsor-svelte/</id>
+    <published>2019-05-24T22:08:47.000Z</published>
+    <updated>2019-05-24T22:20:37.712Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://roughjs.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;RoughJS&lt;/a&gt; - Programmatically render hand-drawn shapes with this
+        
+      
+    
+    </summary>
+    
+    
+      <category term="feed" scheme="https://bloodyaugust.github.io/frontend-feed/tags/feed/"/>
+    
+      <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
+    
+      <category term="svelte" scheme="https://bloodyaugust.github.io/frontend-feed/tags/svelte/"/>
+    
+      <category term="functional" scheme="https://bloodyaugust.github.io/frontend-feed/tags/functional/"/>
+    
+  </entry>
   
   <entry>
     <title>evergreen-conspiracy</title>
