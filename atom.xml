@@ -6,7 +6,7 @@
   <link href="/frontend-feed/atom.xml" rel="self"/>
   
   <link href="https://bloodyaugust.github.io/frontend-feed/"/>
-  <updated>2019-05-24T22:20:37.712Z</updated>
+  <updated>2019-05-31T22:29:02.210Z</updated>
   <id>https://bloodyaugust.github.io/frontend-feed/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>functionally-reducing-anti-css</title>
+    <link href="https://bloodyaugust.github.io/frontend-feed/2019/05/31/functionally-reducing-anti-css/"/>
+    <id>https://bloodyaugust.github.io/frontend-feed/2019/05/31/functionally-reducing-anti-css/</id>
+    <published>2019-05-31T22:21:18.000Z</published>
+    <updated>2019-05-31T22:29:02.210Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://nystudio107.com/blog/the-css-background-image-property-as-an-anti-pattern&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CSS
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>roughly-sponsor-svelte</title>
@@ -72,9 +95,9 @@
     
       <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
     
-      <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
-    
       <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
+    
+      <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
     
       <category term="google" scheme="https://bloodyaugust.github.io/frontend-feed/tags/google/"/>
     
@@ -105,9 +128,9 @@
     
       <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
     
-      <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
-    
       <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
+    
+      <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
     
   </entry>
   
