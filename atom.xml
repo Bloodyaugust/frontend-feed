@@ -6,7 +6,7 @@
   <link href="/frontend-feed/atom.xml" rel="self"/>
   
   <link href="https://bloodyaugust.github.io/frontend-feed/"/>
-  <updated>2019-05-24T22:20:37.712Z</updated>
+  <updated>2019-05-31T23:07:58.525Z</updated>
   <id>https://bloodyaugust.github.io/frontend-feed/</id>
   
   <author>
@@ -17,11 +17,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>functionally-reducing-anti-css</title>
+    <link href="https://bloodyaugust.github.io/frontend-feed/2019/05/31/functionally-reducing-anti-css/"/>
+    <id>https://bloodyaugust.github.io/frontend-feed/2019/05/31/functionally-reducing-anti-css/</id>
+    <published>2019-05-31T22:21:18.000Z</published>
+    <updated>2019-05-31T23:07:58.525Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p><a href="https://nystudio107.com/blog/the-css-background-image-property-as-an-anti-pattern" target="_blank" rel="noopener">CSS Background Image Anti-Pattern</a> - For a long time, this attribute was used for dynamically sizing images, but now you should use <code>picture</code>. - <a href="https://frontendfoc.us/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="http://bradfrost.com/blog/post/reducing-motion-with-the-picture-element/" target="_blank" rel="noopener">Reducing Picture Motion</a> - Use the <code>prefers-reduced-motion</code> media query to support still images for accessibility purposes. - <a href="https://frontendfoc.us/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://jrsinclair.com/articles/2019/five-ways-to-average-with-js-reduce/" target="_blank" rel="noopener">More JS Reduce Fun</a> - A follow-on from last week, this is another great article discussing how to use <code>reduce</code> in JS land. - <a href="https://javascriptweekly.com/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://github.com/scrumpy/tiptap" target="_blank" rel="noopener">TipTap: RTE for Vue</a> - Awesome component giving a fully-featured Rich Text Editor in Vue. - <a href="https://javascriptweekly.com/" target="_blank" rel="noopener">From</a></p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      CSS Background Image Anti-Pattern, Reducing Picture Motion, More JS Reduce Fun, TipTap: RTE for Vue
+    
+    </summary>
+    
+    
+      <category term="feed" scheme="https://bloodyaugust.github.io/frontend-feed/tags/feed/"/>
+    
+      <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
+    
+      <category term="functional" scheme="https://bloodyaugust.github.io/frontend-feed/tags/functional/"/>
+    
+      <category term="css" scheme="https://bloodyaugust.github.io/frontend-feed/tags/css/"/>
+    
+      <category term="accessibility" scheme="https://bloodyaugust.github.io/frontend-feed/tags/accessibility/"/>
+    
+  </entry>
+  
+  <entry>
     <title>roughly-sponsor-svelte</title>
     <link href="https://bloodyaugust.github.io/frontend-feed/2019/05/24/roughly-sponsor-svelte/"/>
     <id>https://bloodyaugust.github.io/frontend-feed/2019/05/24/roughly-sponsor-svelte/</id>
     <published>2019-05-24T22:08:47.000Z</published>
     <updated>2019-05-24T22:20:37.712Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p><a href="https://roughjs.com/" target="_blank" rel="noopener">RoughJS</a> - Programmatically render hand-drawn shapes with this super cool library. - <a href="https://frontendfoc.us/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://github.blog/2019-05-23-announcing-github-sponsors-a-new-way-to-contribute-to-open-source/" target="_blank" rel="noopener">Github Sponsors</a> - Like everyone else, Github now has a native “Patreon”. - <a href="https://frontendfoc.us/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://medium.com/goodboy-digital/pixijs-v5-lands-5e112d84e510" target="_blank" rel="noopener">PixiJS 5 Release</a> - The amazing and all-encompassing PixiJS releases a huge new version, ditching <code>Context2D</code> and gaining a lot of cool stuff. - <a href="gamedevjsweekly.com">From</a></p></li><li><p><a href="https://jrsinclair.com/articles/2019/functional-js-do-more-with-reduce/" target="_blank" rel="noopener">Using <code>[].reduce</code></a> - Great tutorial on how <code>reduce</code> serves as the basis for all things functional programming. - <a href="https://nodeweekly.com" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://blog.logrocket.com/truly-reactive-programming-with-svelte-3-0-321b49b75969" target="_blank" rel="noopener">Svelte</a> - A great article explaining <em>what</em> Svelte is and <em>why</em> you should use it (spoilers: compiler, reactivity). - <a href="https://javascriptweekly.com/" target="_blank" rel="noopener">From</a></p></li></ul>]]></content>
     
     <summary type="html">
     
@@ -29,8 +59,7 @@
       
         
         
-          &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://roughjs.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;RoughJS&lt;/a&gt; - Programmatically render hand-drawn shapes with this
+          
         
       
     
@@ -41,9 +70,9 @@
     
       <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
     
-      <category term="svelte" scheme="https://bloodyaugust.github.io/frontend-feed/tags/svelte/"/>
-    
       <category term="functional" scheme="https://bloodyaugust.github.io/frontend-feed/tags/functional/"/>
+    
+      <category term="svelte" scheme="https://bloodyaugust.github.io/frontend-feed/tags/svelte/"/>
     
   </entry>
   
@@ -54,14 +83,15 @@
     <published>2019-05-10T21:39:56.000Z</published>
     <updated>2019-05-10T21:49:43.263Z</updated>
     
+    <content type="html"><![CDATA[<ul><li><p><a href="https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html" target="_blank" rel="noopener">Googlebot Goes Evergreen</a> - Googlebot is now an (mostly) evergreen project, bringing us a step closer to a fully modern web. - <a href="https://webmasters.googleblog.com/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="http://blog.chriszacharias.com/a-conspiracy-to-kill-ie6" target="_blank" rel="noopener">A Conspiracy To Kill IE6</a> - An interesting (and perhaps cautionary) tale about how a major player knocked another out of the ring. - <a href="https://frontendfoc.us/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://victorzhou.com/blog/build-an-io-game-part-1/" target="_blank" rel="noopener">How To Build An IO Game</a> - Less gamedev focused, more about how to build massively scaling realtime node services. - <a href="https://nodeweekly.com" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://www.twilio.com/blog/how-to-build-a-cli-with-node-js" target="_blank" rel="noopener">How To Build A CLI In Node</a> - There are so many CLI building tools available in node, learn what they are and how to use them. - <a href="https://nodeweekly.com" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://webkit.org/blog/8840/dark-mode-support-in-webkit/" target="_blank" rel="noopener">Dark Mode Support In Webkit</a> - Finally, the light has lost. Viva la Dark Mode! - <a href="https://frontendfoc.us/" target="_blank" rel="noopener">From</a></p></li></ul>]]></content>
+    
     <summary type="html">
     
       
       
         
         
-          &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Googlebot
+          
         
       
     
@@ -87,14 +117,15 @@
     <published>2019-05-03T23:55:15.000Z</published>
     <updated>2019-05-03T23:55:15.795Z</updated>
     
+    <content type="html"><![CDATA[<ul><li><p><a href="https://code.visualstudio.com/blogs/2019/05/02/remote-development" target="_blank" rel="noopener">Remote Development with VS Code</a> - Use VS Code to develop in docker containers! - <a href="https://code.visualstudio.com/blogs/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://uxplanet.org/essential-guide-for-web-performance-optimization-1b883d638a1" target="_blank" rel="noopener">Essential Guide For Web Performance Optimization</a> - Part 1 of a series concerning web optimization, this article outlines how to handle one of the heaviest parts of most sites: images. - <a href="https://frontendfoc.us/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://medium.freecodecamp.org/introducing-cssbattle-the-first-css-code-golfing-game-88b7518df618" target="_blank" rel="noopener">Introducing CSSBattle</a> - A new code-golfing game based around CSS, great practice for those styling and layout chops. - <a href="https://medium.freecodecamp.org/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://github.com/sindresorhus/on-change" target="_blank" rel="noopener">on-change</a> - Convenient, light, and intuitive way to watch objects and arrays for changes. - <a href="https://nodeweekly.com" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://medium.com/@babylonjs/babylon-js-4-0-is-here-d725b5b02e9b" target="_blank" rel="noopener">Babylon.js 4.0 Is Here</a> - The 3D web powerhouse game engine hits a major milestone, most notably getting an inspector reminiscient of Unity3D. - <a href="https://medium.com/@babylonjs/" target="_blank" rel="noopener">From</a></p></li></ul>]]></content>
+    
     <summary type="html">
     
       
       
         
         
-          &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/blogs/2019/05/02/remote-development&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Remote Development
+          
         
       
     
@@ -118,13 +149,15 @@
     <published>2019-05-02T20:15:32.000Z</published>
     <updated>2019-05-02T20:25:32.111Z</updated>
     
+    <content type="html"><![CDATA[<p>Welcome to Frontend Feed! This blog is in place to serve as a digest for the many, <em>many</em> sources of frontend news. Newsletters, blogs, twitter announcements, reddit posts, you name it! If you want to submit a source you think we aren’t considering, please tweet <a href="https://twitter.com/bloodyaugust" target="_blank" rel="noopener">@bloodyaugust</a>.</p><ul><li>New posts every Friday</li><li>No more than 5 links a week</li><li>A small synopsis of each link, but go read them</li><li>Sources for every link, in case you wanna follow where we found it</li><li>Atom/RSS feed</li></ul><p>Thanks for reading, hope you enjoy the service!</p>]]></content>
+    
     <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Welcome to Frontend Feed! This blog is in place to serve as a digest for the many, &lt;em&gt;many&lt;/em&gt; sources of frontend news. Newsletters,
+          
         
       
     
