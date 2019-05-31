@@ -100,6 +100,7 @@ theme_config:
     Home: /
     Feed: /archives/
     Find Me On GitHub: https://github.com/bloodyaugust
+    Atom/RSS: /atom.xml
   social_links:
     github: https://github.com/bloodyaugust
 
@@ -117,8 +118,8 @@ feed:
   path: atom.xml
   limit: 20
   hub:
-  content:
-  content_limit: 140
+  content: true
+  content_limit:
   content_limit_delim: ' '
   order_by: -date
   icon:
