@@ -1,6 +1,7 @@
 ---
 title: functionally-reducing-anti-css
 date: 2019-05-31 16:21:18
+description: CSS Background Image Anti-Pattern, Reducing Picture Motion, More JS Reduce Fun, TipTap: RTE for Vue
 tags:
 - feed
 - web
