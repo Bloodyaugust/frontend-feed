@@ -6,7 +6,7 @@
   <link href="/frontend-feed/atom.xml" rel="self"/>
   
   <link href="https://bloodyaugust.github.io/frontend-feed/"/>
-  <updated>2019-05-31T22:29:02.210Z</updated>
+  <updated>2019-05-31T22:33:58.593Z</updated>
   <id>https://bloodyaugust.github.io/frontend-feed/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://bloodyaugust.github.io/frontend-feed/2019/05/31/functionally-reducing-anti-css/"/>
     <id>https://bloodyaugust.github.io/frontend-feed/2019/05/31/functionally-reducing-anti-css/</id>
     <published>2019-05-31T22:21:18.000Z</published>
-    <updated>2019-05-31T22:29:02.210Z</updated>
+    <updated>2019-05-31T22:33:58.593Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,16 @@
     
     </summary>
     
+    
+      <category term="feed" scheme="https://bloodyaugust.github.io/frontend-feed/tags/feed/"/>
+    
+      <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
+    
+      <category term="functional" scheme="https://bloodyaugust.github.io/frontend-feed/tags/functional/"/>
+    
+      <category term="css" scheme="https://bloodyaugust.github.io/frontend-feed/tags/css/"/>
+    
+      <category term="accessibility" scheme="https://bloodyaugust.github.io/frontend-feed/tags/accessibility/"/>
     
   </entry>
   
@@ -64,9 +74,9 @@
     
       <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
     
-      <category term="svelte" scheme="https://bloodyaugust.github.io/frontend-feed/tags/svelte/"/>
-    
       <category term="functional" scheme="https://bloodyaugust.github.io/frontend-feed/tags/functional/"/>
+    
+      <category term="svelte" scheme="https://bloodyaugust.github.io/frontend-feed/tags/svelte/"/>
     
   </entry>
   
@@ -95,9 +105,9 @@
     
       <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
     
-      <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
-    
       <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
+    
+      <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
     
       <category term="google" scheme="https://bloodyaugust.github.io/frontend-feed/tags/google/"/>
     
@@ -128,9 +138,9 @@
     
       <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
     
-      <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
-    
       <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
+    
+      <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
     
   </entry>
   
