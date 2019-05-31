@@ -2,6 +2,11 @@
 title: functionally-reducing-anti-css
 date: 2019-05-31 16:21:18
 tags:
+- feed
+- web
+- functional
+- css
+- accessibility
 ---
 
 - [CSS Background Image Anti-Pattern](https://nystudio107.com/blog/the-css-background-image-property-as-an-anti-pattern) - For a long time, this attribute was used for dynamically sizing images, but now you should use `picture`. - [From](https://frontendfoc.us/)
