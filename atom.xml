@@ -6,7 +6,7 @@
   <link href="/frontend-feed/atom.xml" rel="self"/>
   
   <link href="https://bloodyaugust.github.io/frontend-feed/"/>
-  <updated>2019-05-31T23:07:58.525Z</updated>
+  <updated>2019-06-07T18:36:53.321Z</updated>
   <id>https://bloodyaugust.github.io/frontend-feed/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>a-million-inaccessible-options</title>
+    <link href="https://bloodyaugust.github.io/frontend-feed/2019/06/07/a-million-inaccessible-options/"/>
+    <id>https://bloodyaugust.github.io/frontend-feed/2019/06/07/a-million-inaccessible-options/</id>
+    <published>2019-06-07T18:27:56.000Z</published>
+    <updated>2019-06-07T18:36:53.321Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p><a href="https://twitter.com/nicolaschevobbe/status/1135798960361263104" target="_blank" rel="noopener">New Firefox No CSS Effect Tool</a> - A tweet referencing a new feature in FF that helps you understand why a CSS attribute isn’t working. - <a href="https://frontendfoc.us/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/" target="_blank" rel="noopener">Inaccessible But Perfect: A Lighthouse Tale</a> - A fun exercise that shows how automated tests are no replacement for good old design and testing. - <a href="https://frontendfoc.us/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://snyk.io/blog/npm-passes-the-1-millionth-package-milestone-what-can-we-learn/" target="_blank" rel="noopener">NPM Hits 1 Million Packages</a> - A fun look at how <code>npm</code> has grown over time, and some of the more popular packages. - <a href="https://nodeweekly.com" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://github.com/tc39/proposal-optional-chaining" target="_blank" rel="noopener">Optional Chaining Is Coming To JS</a> - Those of you with one foot in the world of Ruby are really going to appreciate this one. - <a href="https://nodeweekly.com" target="_blank" rel="noopener">From</a></p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      New Firefox No CSS Effect Tool, 
+    
+    </summary>
+    
+    
+      <category term="feed" scheme="https://bloodyaugust.github.io/frontend-feed/tags/feed/"/>
+    
+  </entry>
   
   <entry>
     <title>functionally-reducing-anti-css</title>
