@@ -1,6 +1,6 @@
 ---
 title: a-million-inaccessible-options
-description: 'New Firefox No CSS Effect Tool, '
+description: 'New Firefox No CSS Effect Tool, Inaccessible But Perfect: A Lighthouse Tale, NPM Hits 1 Million Packages, Optional Chaining Is Coming To JS'
 tags:
   - feed
 date: 2019-06-07 12:27:56
