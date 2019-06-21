@@ -6,7 +6,7 @@
   <link href="/frontend-feed/atom.xml" rel="self"/>
   
   <link href="https://bloodyaugust.github.io/frontend-feed/"/>
-  <updated>2019-06-07T20:38:53.853Z</updated>
+  <updated>2019-06-21T21:48:38.579Z</updated>
   <id>https://bloodyaugust.github.io/frontend-feed/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>state-of-the-cli-web-components</title>
+    <link href="https://bloodyaugust.github.io/frontend-feed/2019/06/21/state-of-the-cli-web-components/"/>
+    <id>https://bloodyaugust.github.io/frontend-feed/2019/06/21/state-of-the-cli-web-components/</id>
+    <published>2019-06-21T21:35:39.000Z</published>
+    <updated>2019-06-21T21:48:38.579Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p><a href="https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md" target="_blank" rel="noopener">Vue Gets Functional Components</a> - Akin to how React components work, this proposal is still just that, but pretty interesting. - <a href="https://javascriptweekly.com/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://blog.bitsrc.io/debugging-javascript-like-a-pro-a2e0f6c53c2e" target="_blank" rel="noopener">Debugging JS Like A Pro</a> - A great walkthru on how to use Chrome tools when debugging your frontend. - <a href="https://javascriptweekly.com/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://www.robinwieruch.de/web-components-tutorial/" target="_blank" rel="noopener">Web Components For Beginners</a> - Another great tutorial on what WC are, how they are useful, and how to write/implement them. - <a href="https://javascriptweekly.com/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://gist.github.com/aeschright/8ed09cbc2a4aee00fcb4ad35086d76a6" target="_blank" rel="noopener">Shit Is Going Down At NPM</a> - NPM has fired numerous employees for “discussing workplace conditions and other labor organizing activities”. - <a href="https://nodeweekly.com" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://2019.stateofcss.com/" target="_blank" rel="noopener">State of CSS</a> - The who, what, how, where, why of using CSS in the modern web, there are some <em>very</em> interesting statistics here. - <a href="https://frontendfoc.us/" target="_blank" rel="noopener">From</a></p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      Vue Gets Functional Components, Debugging JS Like A Pro, Web Components For Beginners, Shit Is Going Down At NPM, State of CSS
+    
+    </summary>
+    
+    
+      <category term="feed" scheme="https://bloodyaugust.github.io/frontend-feed/tags/feed/"/>
+    
+      <category term="css" scheme="https://bloodyaugust.github.io/frontend-feed/tags/css/"/>
+    
+      <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
+    
+      <category term="vue" scheme="https://bloodyaugust.github.io/frontend-feed/tags/vue/"/>
+    
+      <category term="tools" scheme="https://bloodyaugust.github.io/frontend-feed/tags/tools/"/>
+    
+      <category term="components" scheme="https://bloodyaugust.github.io/frontend-feed/tags/components/"/>
+    
+      <category term="npm" scheme="https://bloodyaugust.github.io/frontend-feed/tags/npm/"/>
+    
+  </entry>
   
   <entry>
     <title>a-million-inaccessible-options</title>
@@ -122,9 +154,9 @@
     
       <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
     
-      <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
-    
       <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
+    
+      <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
     
       <category term="google" scheme="https://bloodyaugust.github.io/frontend-feed/tags/google/"/>
     
@@ -156,9 +188,9 @@
     
       <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
     
-      <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
-    
       <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
+    
+      <category term="gamedev" scheme="https://bloodyaugust.github.io/frontend-feed/tags/gamedev/"/>
     
   </entry>
   
