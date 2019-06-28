@@ -6,7 +6,7 @@
   <link href="/frontend-feed/atom.xml" rel="self"/>
   
   <link href="https://bloodyaugust.github.io/frontend-feed/"/>
-  <updated>2019-06-21T21:48:38.579Z</updated>
+  <updated>2019-06-28T21:25:22.444Z</updated>
   <id>https://bloodyaugust.github.io/frontend-feed/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>the-cost-of-writing-exploited-html</title>
+    <link href="https://bloodyaugust.github.io/frontend-feed/2019/06/28/the-cost-of-writing-exploited-html/"/>
+    <id>https://bloodyaugust.github.io/frontend-feed/2019/06/28/the-cost-of-writing-exploited-html/</id>
+    <published>2019-06-28T21:15:25.000Z</published>
+    <updated>2019-06-28T21:25:22.444Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p><a href="https://v8.dev/blog/cost-of-javascript-2019" target="_blank" rel="noopener">The Cost of JavaScript in 2019</a> - An analysis of what your JS is doing that takes up time, and how to optimize it. - <a href="https://javascriptweekly.com/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="http://john.ankarstrom.se/html/" target="_blank" rel="noopener">Writing HTML in HTML</a> - A kind-of-tongue-in-cheek article discussing the benefits of using pure HTML over a static site generator. - <a href="https://frontendfoc.us/" target="_blank" rel="noopener">From</a></p></li><li><p><a href="https://www.youtube.com/watch?v=2cyib2MgvdM" target="_blank" rel="noopener">Analysis of an Exploited NPM Package</a> - A presentation that dives into the <code>event-stream</code> vulnerability from last year, and how we can avoid this problem going forward. - <a href="https://nodeweekly.com" target="_blank" rel="noopener">From</a></p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      The Cost of JavaScript in 2019, Writing HTML in HTML, Analysis of an Exploited NPM Package
+    
+    </summary>
+    
+    
+      <category term="feed" scheme="https://bloodyaugust.github.io/frontend-feed/tags/feed/"/>
+    
+      <category term="exploit" scheme="https://bloodyaugust.github.io/frontend-feed/tags/exploit/"/>
+    
+      <category term="HTML" scheme="https://bloodyaugust.github.io/frontend-feed/tags/HTML/"/>
+    
+      <category term="optimization" scheme="https://bloodyaugust.github.io/frontend-feed/tags/optimization/"/>
+    
+  </entry>
   
   <entry>
     <title>state-of-the-cli-web-components</title>
@@ -34,8 +60,6 @@
     
       <category term="feed" scheme="https://bloodyaugust.github.io/frontend-feed/tags/feed/"/>
     
-      <category term="css" scheme="https://bloodyaugust.github.io/frontend-feed/tags/css/"/>
-    
       <category term="node" scheme="https://bloodyaugust.github.io/frontend-feed/tags/node/"/>
     
       <category term="vue" scheme="https://bloodyaugust.github.io/frontend-feed/tags/vue/"/>
@@ -45,6 +69,8 @@
       <category term="components" scheme="https://bloodyaugust.github.io/frontend-feed/tags/components/"/>
     
       <category term="npm" scheme="https://bloodyaugust.github.io/frontend-feed/tags/npm/"/>
+    
+      <category term="css" scheme="https://bloodyaugust.github.io/frontend-feed/tags/css/"/>
     
   </entry>
   
@@ -122,9 +148,9 @@
     
       <category term="web" scheme="https://bloodyaugust.github.io/frontend-feed/tags/web/"/>
     
-      <category term="functional" scheme="https://bloodyaugust.github.io/frontend-feed/tags/functional/"/>
-    
       <category term="svelte" scheme="https://bloodyaugust.github.io/frontend-feed/tags/svelte/"/>
+    
+      <category term="functional" scheme="https://bloodyaugust.github.io/frontend-feed/tags/functional/"/>
     
   </entry>
   
